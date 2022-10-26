@@ -14,3 +14,5 @@
 9. Commit 9
 ===============
 10. Commit 10 (I wrote it here, because merging wont cause a conflict so I won't be able to write this message)
+11. Commit 11
+![](krok.jpg)
