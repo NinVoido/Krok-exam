@@ -7,6 +7,8 @@
 4. Commit 4 - first merge
 5. Commit 5
 ===============
+6. Commit 6
+7. Commit 7
 ===============
 8. Commit 8
 9. Commit 9
